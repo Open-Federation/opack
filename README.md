@@ -1,4 +1,4 @@
-# opack
+# opack(open-pack)
 一个自由开放的企业级别的构建工具
 
 详细教程：https://www.yuque.com/sean2009/qkss7n/ri8e4t
